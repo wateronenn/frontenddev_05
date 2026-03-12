@@ -8,9 +8,9 @@ export default function Home() {
       <main className={styles.main}>
         <Banner/>
         <div style={{margin:"20px",display:"flex",flexDirection:"row",flexWrap:"wrap",justifyContent:"space-around",alignContent:"space-around"}}>
-        <Card venueName="Concert Hall" imgSrc = "/img/ConcertHall.jpg" venueDes="conference hall for concert, show and musical entertainment" />
-        <Card venueName="Dinner Mate" imgSrc = "/img/DinnerMate.jpg" venueDes="restaurant venue for big group dinner" />
-        <Card venueName="Romance Pavilion" imgSrc = "/img/RomacePavilion.jpg" venueDes="wedding hall with antique style of decoration" />
+        <Card venueName="Spark Space" imgSrc = "/img/ConcertHall.jpg" venueDes="conference hall for concert, show and musical entertainment" />
+        <Card venueName="The Grand Table" imgSrc = "/img/DinnerMate.jpg" venueDes="restaurant venue for big group dinner" />
+        <Card venueName="The Bloom Pavilion" imgSrc = "/img/RomacePavilion.jpg" venueDes="wedding hall with antique style of decoration" />
         </div>
         
       </main>

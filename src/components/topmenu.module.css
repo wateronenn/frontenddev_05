@@ -10,6 +10,7 @@
     border-bottom: 1px solid lightblue;
     display: flex;
     flex-direction: row;
+    
 }
 .logoimg{
     height: 100%;
